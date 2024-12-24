@@ -1,1 +1,1 @@
-xlsxio headers/static for freebasic 
+xlsxio headers/static lib for freebasic 
